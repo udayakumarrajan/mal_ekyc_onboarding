@@ -1,0 +1,17 @@
+{
+  "name": "ekyc-onboarding",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "api": "npm run dev --workspace=apps/api",
+    "mobile": "npm start --workspace=apps/mobile",
+    "api:dev": "npm run dev --workspace=apps/api",
+    "mobile:start": "npm start --workspace=apps/mobile"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
