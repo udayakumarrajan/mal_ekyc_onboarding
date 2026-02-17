@@ -5,7 +5,7 @@
 ### Prerequisites
 - ✅ Backend API running on http://localhost:3000
 - ✅ Mobile app running on iOS simulator
-- ✅ Test user: udayakumar.rajanexample.com / password123
+- ✅ Test user: udayakumar.rajan@example.com / password123
 
 ---
 
