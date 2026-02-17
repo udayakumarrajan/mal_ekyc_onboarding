@@ -68,6 +68,12 @@ cd apps/mobile
 npm start
 ```
 
+or you can try using the below
+
+```
+npx expo start --localhost --ios
+```
+
 Then:
 - Press `i` to open iOS simulator
 - Press `a` to open Android emulator
