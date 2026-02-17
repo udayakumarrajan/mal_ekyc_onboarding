@@ -28,6 +28,20 @@ ekyc-onboarding/
 - Axios (HTTP Client)
 - AsyncStorage (Persistence)
 
+## Documentation
+
+📄 **[Architecture & System Design Document](./document/Architecture%20&%20System%20design.pdf)**
+
+This comprehensive document contains:
+- System architecture overview
+- Technical design decisions
+- Data flow diagrams
+- API specifications
+- Security considerations
+- Deployment architecture
+
+For detailed system design and architectural decisions, please refer to the PDF document in the `document/` folder.
+
 ## Getting Started
 
 ### Prerequisites
