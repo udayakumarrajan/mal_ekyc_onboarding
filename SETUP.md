@@ -52,7 +52,7 @@ curl http://localhost:3000/health
 # Test login
 curl -X POST http://localhost:3000/v1/auth/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"jane.doe@example.com","password":"password123"}'
+  -d '{"email":"udayakumar.rajan@example.com","password":"password123"}'
 ```
 
 ### Start the Mobile App
