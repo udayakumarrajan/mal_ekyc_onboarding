@@ -89,6 +89,9 @@ npm run mobile
 
 # Or from apps/mobile directory
 cd apps/mobile
+
+npx expo start --localhost --ios
+or
 npm start
 ```
 
