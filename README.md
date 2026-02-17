@@ -124,7 +124,7 @@ Then:
 ## Default Test User
 
 ```
-Email: jane.doe@example.com
+Email: udayakumar.rajan@example.com
 Password: password123
 ```
 
